@@ -1,0 +1,8 @@
+C:\Users\Glestman\Git\Aplicativo de Cadastro de Serie\Aplicativo de Cadastro de Serie\obj\Debug\Aplicativo de Cadastro de Serie.csproj.AssemblyReference.cache
+C:\Users\Glestman\Git\Aplicativo de Cadastro de Serie\Aplicativo de Cadastro de Serie\obj\Debug\Aplicativo de Cadastro de Serie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Glestman\Git\Aplicativo de Cadastro de Serie\Aplicativo de Cadastro de Serie\obj\Debug\Aplicativo de Cadastro de Serie.csproj.CoreCompileInputs.cache
+C:\Users\Glestman\Git\Aplicativo de Cadastro de Serie\Aplicativo de Cadastro de Serie\bin\Debug\Aplicativo de Cadastro de Serie.exe.config
+C:\Users\Glestman\Git\Aplicativo de Cadastro de Serie\Aplicativo de Cadastro de Serie\bin\Debug\Aplicativo de Cadastro de Serie.exe
+C:\Users\Glestman\Git\Aplicativo de Cadastro de Serie\Aplicativo de Cadastro de Serie\bin\Debug\Aplicativo de Cadastro de Serie.pdb
+C:\Users\Glestman\Git\Aplicativo de Cadastro de Serie\Aplicativo de Cadastro de Serie\obj\Debug\Aplicativo de Cadastro de Serie.exe
+C:\Users\Glestman\Git\Aplicativo de Cadastro de Serie\Aplicativo de Cadastro de Serie\obj\Debug\Aplicativo de Cadastro de Serie.pdb
