@@ -1,0 +1,16 @@
+C:\Users\Glestman\OneDrive\Documentos\Git\C#\Aplicacao-RPG\bin\Debug\net5.0\Aplicacao-RPG.exe
+C:\Users\Glestman\OneDrive\Documentos\Git\C#\Aplicacao-RPG\bin\Debug\net5.0\Aplicacao-RPG.deps.json
+C:\Users\Glestman\OneDrive\Documentos\Git\C#\Aplicacao-RPG\bin\Debug\net5.0\Aplicacao-RPG.runtimeconfig.json
+C:\Users\Glestman\OneDrive\Documentos\Git\C#\Aplicacao-RPG\bin\Debug\net5.0\Aplicacao-RPG.runtimeconfig.dev.json
+C:\Users\Glestman\OneDrive\Documentos\Git\C#\Aplicacao-RPG\bin\Debug\net5.0\Aplicacao-RPG.dll
+C:\Users\Glestman\OneDrive\Documentos\Git\C#\Aplicacao-RPG\bin\Debug\net5.0\Aplicacao-RPG.pdb
+C:\Users\Glestman\OneDrive\Documentos\Git\C#\Aplicacao-RPG\obj\Debug\net5.0\Aplicacao-RPG.csproj.AssemblyReference.cache
+C:\Users\Glestman\OneDrive\Documentos\Git\C#\Aplicacao-RPG\obj\Debug\net5.0\Aplicacao-RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Glestman\OneDrive\Documentos\Git\C#\Aplicacao-RPG\obj\Debug\net5.0\Aplicacao-RPG.AssemblyInfoInputs.cache
+C:\Users\Glestman\OneDrive\Documentos\Git\C#\Aplicacao-RPG\obj\Debug\net5.0\Aplicacao-RPG.AssemblyInfo.cs
+C:\Users\Glestman\OneDrive\Documentos\Git\C#\Aplicacao-RPG\obj\Debug\net5.0\Aplicacao-RPG.csproj.CoreCompileInputs.cache
+C:\Users\Glestman\OneDrive\Documentos\Git\C#\Aplicacao-RPG\obj\Debug\net5.0\Aplicacao-RPG.dll
+C:\Users\Glestman\OneDrive\Documentos\Git\C#\Aplicacao-RPG\obj\Debug\net5.0\refint\Aplicacao-RPG.dll
+C:\Users\Glestman\OneDrive\Documentos\Git\C#\Aplicacao-RPG\obj\Debug\net5.0\Aplicacao-RPG.pdb
+C:\Users\Glestman\OneDrive\Documentos\Git\C#\Aplicacao-RPG\obj\Debug\net5.0\Aplicacao-RPG.genruntimeconfig.cache
+C:\Users\Glestman\OneDrive\Documentos\Git\C#\Aplicacao-RPG\obj\Debug\net5.0\ref\Aplicacao-RPG.dll
